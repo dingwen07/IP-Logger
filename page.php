@@ -7,7 +7,7 @@
 <body>
 
 <?php
-$ipl_origin = "zhs";
+$ipl_origin = "page";
 include "bee447c0.php";
 header("refresh:0;url=https://www.baidu.com");
 echo "Redirecting...";
